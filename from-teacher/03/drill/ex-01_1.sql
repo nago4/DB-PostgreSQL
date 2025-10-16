@@ -1,7 +1,4 @@
-SELECT
-  id,
-  last_login_at,
-  created_on,
-  id
-FROM
-  s_characters;
+SELECT 
+id,name,level,created_on 
+FROM 
+s_characters;
