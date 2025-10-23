@@ -1,7 +1,7 @@
 SELECT
-  id AS "ID",
-  name AS "名前",
-  level AS "レベル",
-  job AS "ジョブ"
+id AS ID,
+name AS 名前,
+job AS レベル,
+jod AS ジョブ
 FROM
-  s_characters;
+s_characters
